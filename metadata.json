@@ -1,0 +1,5 @@
+{
+  "name": "GeoSprite Studio",
+  "description": "Convert lists of real-world locations into game assets using Maps Grounding.",
+  "requestFramePermissions": []
+}
